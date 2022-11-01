@@ -11,11 +11,11 @@
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-### База данных
+### `База данных`
 
 Заполняется через Postgresql
 
-### Сервер
+### `Сервер`
 
 host: '127.0.0.1',
 user: 'postgres',
